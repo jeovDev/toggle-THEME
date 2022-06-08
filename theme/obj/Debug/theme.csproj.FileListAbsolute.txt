@@ -1,0 +1,11 @@
+C:\Users\smsi\source\repos\theme\theme\bin\Debug\theme.exe
+C:\Users\smsi\source\repos\theme\theme\bin\Debug\theme.pdb
+C:\Users\smsi\source\repos\theme\theme\bin\Debug\Siticone.UI.dll
+C:\Users\smsi\source\repos\theme\theme\obj\Debug\theme.csprojAssemblyReference.cache
+C:\Users\smsi\source\repos\theme\theme\obj\Debug\theme.Form1.resources
+C:\Users\smsi\source\repos\theme\theme\obj\Debug\theme.Properties.Resources.resources
+C:\Users\smsi\source\repos\theme\theme\obj\Debug\theme.csproj.GenerateResource.cache
+C:\Users\smsi\source\repos\theme\theme\obj\Debug\theme.csproj.CoreCompileInputs.cache
+C:\Users\smsi\source\repos\theme\theme\obj\Debug\theme.csproj.CopyComplete
+C:\Users\smsi\source\repos\theme\theme\obj\Debug\theme.exe
+C:\Users\smsi\source\repos\theme\theme\obj\Debug\theme.pdb
